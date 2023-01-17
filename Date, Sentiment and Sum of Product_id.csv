@@ -1,0 +1,234 @@
+﻿Date,Sentiment,Sum of Product_id
+01/09/2022,strong positive,1
+01/09/2022,weak negative,3
+01/10/2022,neutral,1
+01/11/2021,strong positive,3
+01/12/2022,weak negative,2
+02/01/2022,strong positive,3
+02/02/2022,strong negative,3
+02/03/2022,strong positive,1
+02/06/2022,strong positive,2
+02/06/2022,weak positive,2
+02/11/2022,strong positive,2
+02/11/2022,weak positive,1
+03/01/2023,strong positive,3
+03/02/2022,strong positive,1
+03/07/2022,weak negative,3
+03/10/2022,strong positive,1
+03/10/2022,weak positive,1
+03/11/2022,strong positive,1
+04/05/2022,strong positive,2
+04/08/2022,weak negative,2
+04/11/2022,strong positive,1
+04/11/2022,weak negative,1
+05/06/2022,weak negative,2
+05/08/2022,neutral,2
+05/08/2022,weak negative,2
+05/09/2022,strong negative,3
+05/09/2022,weak negative,2
+05/10/2022,strong positive,3
+05/11/2022,strong positive,1
+05/11/2022,weak negative,1
+06/07/2022,neutral,2
+06/08/2022,strong positive,3
+06/08/2022,weak negative,2
+06/08/2022,weak positive,3
+06/09/2022,strong negative,2
+06/09/2022,strong positive,5
+06/10/2022,strong positive,3
+06/11/2022,strong positive,1
+06/11/2022,weak positive,1
+06/12/2021,weak negative,2
+07/07/2022,neutral,3
+07/08/2022,strong positive,2
+07/09/2022,strong positive,2
+07/10/2022,weak negative,1
+07/11/2022,weak negative,1
+08/05/2022,strong positive,2
+08/06/2021,weak negative,3
+08/07/2022,strong positive,3
+08/07/2022,weak positive,2
+08/08/2022,strong negative,2
+08/08/2022,weak negative,2
+08/09/2022,strong negative,3
+08/10/2022,weak negative,2
+08/11/2022,strong positive,1
+09/08/2022,strong negative,5
+09/09/2022,weak negative,3
+09/10/2022,strong positive,2
+09/10/2022,weak negative,3
+09/12/2022,neutral,1
+09/12/2022,strong positive,5
+09/12/2022,weak negative,3
+09/12/2022,weak positive,1
+10/01/2022,weak negative,2
+10/02/2022,weak negative,1
+10/06/2022,strong negative,3
+10/08/2022,weak positive,3
+10/09/2022,strong negative,3
+10/09/2022,weak negative,6
+10/10/2022,strong positive,1
+10/10/2022,weak negative,1
+11/08/2022,strong negative,3
+11/09/2021,weak negative,2
+11/09/2022,strong positive,1
+11/09/2022,weak negative,2
+11/10/2022,weak negative,2
+11/11/2022,neutral,1
+11/12/2022,strong negative,1
+12/04/2022,strong positive,2
+12/06/2022,weak negative,3
+12/08/2022,strong negative,2
+12/09/2022,strong positive,3
+12/09/2022,weak negative,3
+12/09/2022,weak positive,3
+12/10/2022,strong negative,2
+12/11/2022,strong positive,1
+13/05/2022,weak negative,5
+13/08/2022,strong negative,3
+13/08/2022,strong positive,5
+13/09/2022,weak positive,3
+13/10/2022,strong positive,1
+13/10/2022,weak negative,1
+13/10/2022,weak positive,1
+13/11/2022,strong positive,1
+13/12/2022,strong negative,3
+14/04/2022,weak positive,3
+14/09/2022,"",3
+14/09/2022,neutral,3
+14/10/2022,strong positive,2
+14/10/2022,weak negative,3
+14/11/2022,weak negative,1
+14/12/2022,weak negative,3
+15/04/2022,strong negative,2
+15/04/2022,strong positive,6
+15/04/2022,weak negative,6
+15/04/2022,weak positive,2
+15/05/2022,strong positive,2
+15/07/2022,strong positive,3
+15/09/2022,strong positive,2
+15/09/2022,weak negative,1
+15/11/2022,strong positive,1
+16/05/2022,weak positive,1
+16/09/2022,strong negative,1
+16/09/2022,strong positive,3
+16/10/2022,neutral,1
+16/10/2022,strong negative,1
+16/10/2022,strong positive,7
+16/10/2022,weak negative,1
+17/03/2022,strong negative,1
+17/03/2022,weak negative,1
+17/05/2022,strong positive,2
+17/06/2022,strong negative,3
+17/06/2022,weak negative,2
+17/07/2022,strong negative,2
+17/07/2022,weak positive,5
+17/08/2022,"",1
+17/08/2022,weak negative,3
+17/09/2021,weak negative,3
+17/09/2022,neutral,2
+17/10/2022,neutral,2
+17/11/2022,strong negative,1
+17/11/2022,strong positive,2
+18/04/2022,strong positive,1
+18/06/2022,strong positive,3
+18/06/2022,weak negative,1
+18/10/2022,strong negative,3
+19/02/2022,weak negative,4
+19/07/2022,weak negative,2
+19/08/2022,strong positive,3
+19/10/2021,strong positive,3
+19/10/2022,strong positive,1
+19/10/2022,weak negative,1
+19/12/2022,strong negative,3
+20/08/2022,strong positive,3
+20/09/2021,strong positive,2
+20/09/2021,weak negative,12
+20/09/2021,weak positive,2
+20/10/2022,weak negative,1
+20/12/2021,strong negative,1
+21/03/2022,strong positive,2
+21/05/2022,neutral,2
+21/06/2022,weak negative,6
+21/07/2022,strong positive,3
+21/07/2022,weak negative,2
+21/08/2022,strong positive,1
+21/11/2021,weak negative,1
+21/11/2022,weak positive,1
+21/12/2021,neutral,3
+21/12/2021,strong negative,2
+22/05/2022,strong positive,3
+22/08/2022,strong positive,2
+22/09/2022,neutral,3
+22/09/2022,strong negative,2
+22/10/2021,weak negative,1
+22/10/2022,"",2
+22/10/2022,neutral,2
+22/11/2022,weak negative,4
+23/08/2022,weak negative,3
+23/09/2022,strong positive,2
+23/10/2022,weak negative,1
+23/11/2022,weak negative,2
+23/12/2022,neutral,3
+23/12/2022,strong negative,6
+23/12/2022,strong positive,9
+23/12/2022,weak negative,9
+24/05/2022,weak negative,2
+24/06/2022,strong positive,2
+24/07/2022,neutral,2
+24/10/2021,weak negative,1
+24/10/2022,strong positive,1
+24/10/2022,weak positive,1
+24/11/2022,strong positive,2
+25/04/2022,neutral,3
+25/06/2022,strong negative,3
+25/08/2022,strong positive,2
+25/09/2022,strong positive,3
+25/10/2022,strong positive,3
+25/10/2022,weak negative,1
+25/12/2021,strong positive,2
+26/08/2022,strong positive,2
+26/08/2022,weak negative,6
+26/08/2022,weak positive,2
+26/09/2022,neutral,3
+26/09/2022,weak negative,3
+26/10/2022,neutral,1
+26/10/2022,weak negative,1
+26/12/2021,strong positive,1
+27/04/2022,strong negative,2
+27/04/2022,weak negative,2
+27/06/2022,strong positive,3
+27/07/2022,strong positive,3
+27/07/2022,weak negative,2
+27/09/2022,weak positive,1
+27/11/2021,weak positive,2
+28/04/2022,strong positive,3
+28/05/2022,weak negative,2
+28/08/2022,weak negative,2
+28/09/2022,weak negative,3
+28/09/2022,weak positive,3
+28/10/2022,neutral,1
+28/10/2022,strong positive,4
+28/10/2022,weak negative,2
+29/06/2022,strong positive,6
+29/08/2021,weak negative,3
+29/09/2022,strong positive,4
+29/10/2022,neutral,1
+29/12/2021,strong positive,2
+30/05/2022,neutral,2
+30/06/2022,strong negative,2
+30/07/2022,strong positive,3
+30/07/2022,weak positive,2
+30/08/2022,strong positive,4
+30/08/2022,weak negative,3
+30/09/2022,neutral,1
+30/10/2022,strong negative,1
+30/10/2022,strong positive,2
+30/11/2022,weak negative,2
+31/05/2022,strong positive,3
+31/07/2022,weak negative,3
+31/08/2022,strong positive,3
+31/10/2022,neutral,3
+31/10/2022,strong negative,3
+31/10/2022,strong positive,15
+31/10/2022,weak positive,7
